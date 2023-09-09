@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import {FormControl, Input} from '@mui/material';
 import './App.css';
-import Message from './Message';
-import db from './firebase';
+import Message from '../Message/Message';
+import db from '../../firebase';
 import firebase from 'firebase/compat/app';
 import FlipMove from 'react-flip-move';
 import SendIcon from '@mui/icons-material/Send';
