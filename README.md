@@ -29,5 +29,5 @@ To run the Messenger Clone app locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com//messenger-clone.git
+   https://github.com/Athinamilagi/react-projects.git
    cd messenger-clone
