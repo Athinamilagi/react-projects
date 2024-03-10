@@ -20,7 +20,7 @@ The Messenger Clone App is a real-time chat application built using React and Fi
 
 ## Demo
 
-Explore the live demo of the Messenger Clone app: [Messenger Clone Demo]([https://messenger-clone-865ec.web.app/])
+Explore the live demo of the Messenger Clone app: [Messenger Clone Demo][https://messenger-clone-865ec.web.app/]
 
 ## Installation
 
